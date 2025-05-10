@@ -1,0 +1,15 @@
+langchain 
+faiss-cpu
+openai
+streamlit
+tiktoken
+transformers
+langchain-community
+langchain-huggingface
+pypdf 
+accelerate
+sentence-transformers
+agno
+duckduckgo-search
+lancedb
+groq
